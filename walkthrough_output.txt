@@ -1,40 +1,30 @@
->take keycard
-Family Zoo
-By Sharpee Tutorial
+Zoo Entrance
+Your family piles out of the car, buzzing with excitement — a whole day at the zoo! You straighten the strap of your backpack and take it all in. You stand before the wrought-iron gates of the Willowbrook Family Zoo. A cheerful welcome sign arches over the entrance, and a small ticket booth sits to one side. A sturdy iron fence runs along either side of the gates. The main path leads south into the zoo grounds.
 
-Type HELP for instructions.
+You can see a staff keycard, a zoo brochure, a zoo map, and a backpack here.
 
-Taken.
-
->south
+> south
 Main Path
-
 A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
 
-You can see staff gate, direction signs, flower beds, souvenir penny, park bench, lunchbox, zookeeper here.
+You can see a souvenir penny and a lunchbox here.
 
->unlock gate with keycard
-You unlock staff gate with staff keycard.
+> east
+Petting Zoo
+A cheerful open-air enclosure that smells of warm hay and fur. A feed dispenser is mounted on a post, and an info plaque is posted by the gate. The main path is back to the west.
 
->open gate
-You open staff gate.
+> x feed dispenser
+A coin-operated feed dispenser mounted on a wooden post. Sign: "FREE — Just Turn!"
 
->south
-Supply Room
+> west
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
 
-A cluttered storage room behind the staff gate. Metal shelves line the walls. A cork board on the wall is covered with staff schedules. A battered radio sits on one of the shelves. The staff gate leads back north.
+You can see a souvenir penny and a lunchbox here.
 
-You can see metal shelves, cork board, warning sign, flashlight, radio here.
-*DING DONG* "Attention visitors! The Willowbrook Family Zoo will be closing in three hours. Please make sure to visit all exhibits before closing time!"
+> west
+Aviary
+You step inside a soaring mesh dome. Brilliantly colored parrots chatter from rope perches, and a toucan eyes you curiously from a branch overhead. A small waterfall splashes into a stone basin. An info plaque hangs near the entrance. The gift shop is to the west. The main path is back to the east.
 
->examine radio
-A battered portable radio held together with duct tape. The antenna is bent at a jaunty angle. A faded sticker on the side reads "ZOO FM — All Animals, All The Time."
-
->switch on radio
-radio hums to life.
-
->switch off radio
-radio powers down with a soft whir.
-
->take radio
-radio is fixed in place.
+> x stuffed animals
+You can't see any such thing.

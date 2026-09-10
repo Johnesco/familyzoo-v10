@@ -1,9 +1,6 @@
-take keycard
 south
-unlock gate with keycard
-open gate
-south
-examine radio
-switch on radio
-switch off radio
-take radio
+east
+x feed dispenser
+west
+west
+x stuffed animals
