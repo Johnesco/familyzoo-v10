@@ -11,7 +11,7 @@ You can see a souvenir penny and a lunchbox here.
 
 > east
 Petting Zoo
-A cheerful open-air enclosure that smells of warm hay and fur. A feed dispenser is mounted on a post, and an info plaque is posted by the gate. The main path is back to the west.
+A cheerful open-air enclosure that smells of warm hay and fur. A feed dispenser is mounted on a post. The main path is back to the west.
 
 > x feed dispenser
 A coin-operated feed dispenser mounted on a wooden post. Sign: "FREE — Just Turn!"
@@ -24,7 +24,7 @@ You can see a souvenir penny and a lunchbox here.
 
 > west
 Aviary
-You step inside a soaring mesh dome. Brilliantly colored parrots chatter from rope perches, and a toucan eyes you curiously from a branch overhead. A small waterfall splashes into a stone basin. An info plaque hangs near the entrance. The gift shop is to the west. The main path is back to the east.
+You step inside a soaring mesh dome. A toucan eyes you curiously from a branch overhead, and rope perches crisscross the space. A small waterfall splashes into a stone basin. A plaque hangs near the entrance. The gift shop is to the west. The main path is back to the east.
 
 > x stuffed animals
 You can't see any such thing.

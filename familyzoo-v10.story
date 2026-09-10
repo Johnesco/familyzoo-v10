@@ -3,7 +3,7 @@ story
   authors:
     John Googol
   id: familyzoo-v10
-  ifid: 0DF57179-5E5D-4473-99F4-465E7624380E
+  ifid: F5010AFE-26A9-4DD1-B6DD-6C22F286F2EF
   story-version: 0.0.2
   description: Sharpee tutorial step 10 — `switchable`, and machines that do something.
 
@@ -44,19 +44,17 @@ create the Petting Zoo
   aka petting area, pen
 
   A cheerful open-air enclosure that smells of warm hay and fur. A feed
-  dispenser is mounted on a post, and an info plaque is posted by the
-  gate. The main path is back to the west.
+  dispenser is mounted on a post. The main path is back to the west.
 
 create the Aviary
   a room
   aka bird house, dome
   west to the Gift Shop
 
-  You step inside a soaring mesh dome. Brilliantly colored parrots
-  chatter from rope perches, and a toucan eyes you curiously from a
-  branch overhead. A small waterfall splashes into a stone basin. An
-  info plaque hangs near the entrance. The gift shop is to the west. The
-  main path is back to the east.
+  You step inside a soaring mesh dome. A toucan eyes you curiously from a
+  branch overhead, and rope perches crisscross the space. A small
+  waterfall splashes into a stone basin. A plaque hangs near the
+  entrance. The gift shop is to the west. The main path is back to the east.
 
 create the Supply Room
   a room
@@ -84,8 +82,7 @@ create the Gift Shop
 
   A small zoo gift shop crammed with stuffed animals and
   postcards{pins}. A large souvenir penny press machine stands near the
-  door. A disposable camera sits on the counter. The aviary is back to
-  the east.
+  door. The aviary is back to the east.
 
 create the Staff Parking Lot
   a room
@@ -244,22 +241,6 @@ create the cork board
 
   A cork board with staff schedules. A note in red marker: "DON'T
   FORGET: nocturnal exhibit lights need new batteries!"
-
-create the info plaque
-  aka plaque, brass plaque
-  scenery, readable
-  in the Petting Zoo
-
-  A brass plaque mounted on a wooden post near the petting zoo gate.
-
-  on the player reading
-    phrase plaque-text
-      PYGMY GOATS — These Nigerian Dwarf goats are gentle, curious, and
-      always hungry.
-
-      HOLLAND LOP RABBITS — Known for their floppy ears. Our pair,
-      Biscuit and Marmalade, were born here in 2023.
-  end on
 
 create the aviary plaque
   aka information board
