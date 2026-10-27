@@ -1,10 +1,6 @@
 {
-  "version": 1,
-  "story": "familyzoo-v10",
-  "seed": 42,
   "cards": [
     {
-      "type": "opening",
       "assertions": {
         "channels": [
           {
@@ -16,74 +12,84 @@
             "is": "Sharpee tutorial step 10 — `switchable`, and machines that do something."
           }
         ]
-      }
+      },
+      "id": "ypnv80sm",
+      "type": "opening"
     },
     {
-      "type": "boot",
       "assertions": {
         "contains": [
           "Zoo Entrance",
           "Your family piles out of the car, buzzing with excitement — a whole day at the zoo! You st"
         ]
-      }
+      },
+      "id": "9ahlm9hi",
+      "type": "boot"
     },
     {
-      "type": "turn",
-      "command": "south",
       "assertions": {
         "contains": [
           "Main Path",
           "A wide gravel path winds through the heart of the zoo. Colorful direction signs point ever"
         ]
-      }
+      },
+      "command": "south",
+      "id": "srxcpz2b",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "east",
       "assertions": {
         "contains": [
           "Petting Zoo",
           "A cheerful open-air enclosure that smells of warm hay and fur. A feed dispenser is mounted"
         ]
-      }
+      },
+      "command": "east",
+      "id": "l39w3s3w",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "x feed dispenser",
       "assertions": {
         "contains": [
           "A coin-operated feed dispenser mounted on a wooden post. Sign: \"FREE — Just Turn!\""
         ]
-      }
+      },
+      "command": "x feed dispenser",
+      "id": "6cgq5mbm",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "west",
       "assertions": {
         "contains": [
           "Main Path",
           "A wide gravel path winds through the heart of the zoo. Colorful direction signs point ever"
         ]
-      }
+      },
+      "command": "west",
+      "id": "ya2nz1ip",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "west",
       "assertions": {
         "contains": [
           "Aviary",
           "You step inside a soaring mesh dome. A toucan eyes you curiously from a branch overhead, a"
         ]
-      }
+      },
+      "command": "west",
+      "id": "wh0ixonv",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "x stuffed animals",
       "assertions": {
         "contains": [
           "You can't see any such thing."
         ]
-      }
+      },
+      "command": "x stuffed animals",
+      "id": "g68859qh",
+      "type": "turn"
     }
-  ]
+  ],
+  "id": "evwd9lg2"
 }
