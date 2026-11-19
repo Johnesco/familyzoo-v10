@@ -11,20 +11,14 @@
             "id": "info.description",
             "is": "Sharpee tutorial step 10 — `switchable`, and machines that do something."
           }
-        ]
-      },
-      "id": "ypnv80sm",
-      "type": "opening"
-    },
-    {
-      "assertions": {
+        ],
         "contains": [
           "Zoo Entrance",
           "Your family piles out of the car, buzzing with excitement — a whole day at the zoo! You st"
         ]
       },
-      "id": "9ahlm9hi",
-      "type": "boot"
+      "id": "ypnv80sm",
+      "type": "opening"
     },
     {
       "assertions": {
